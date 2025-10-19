@@ -11,8 +11,38 @@ NIM : 1313624039
 5. This assignment is due October 20th, 23:55 AM
 
 # Features Implemented (list all completed)
-1. ...............
-2. 
+1. Login
+   **As Buyer:**
+   1. Check Account Status
+   2. Manage Bank Account:
+      1. Top Up
+      2. WithDraw
+      3. View Cash Flow (last 30 days)
+      4. View Balance & Transaction
+   3. Visit Store/Buy Item
+   4. Upgrade Account to Seller
+   **As Seller:**
+   1. Check Account/Store Status
+   2. View Inventory
+   3. Add Item to Inventory
+   4. Manage Bank Account:
+      1. Top Up
+      2. WithDraw
+      3. View Cash Flow (last 30 days)
+      4. View Balance & Transaction
+   5. Manage Orders
+   6. Discard Item from Store
+   7. List most frequent items (store-wide)
+   8. List most active buyers (last 1 day)
+2. Register
+   1. Create Buyer Account
+   2. Create Seller Account
+3. Exit
+4. Bank (Reports)
+   1. List transaction within last week
+   2. List all bank customers
+   3. List dormant account (no tx last 30 days)
+   4. Top user (most bank tx user)
 
 # Collaborators (The person you learned from)
 1. ..........
