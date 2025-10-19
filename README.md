@@ -12,7 +12,7 @@ NIM : 1313624039
 
 # Features Implemented (list all completed)
 1. Login
-   **As Buyer:**
+   - As Buyer -
    1. Check Account Status
    2. Manage Bank Account:
       1. Top Up
@@ -21,7 +21,7 @@ NIM : 1313624039
       4. View Balance & Transaction
    3. Visit Store/Buy Item
    4. Upgrade Account to Seller
-   **As Seller:**
+   - As Seller -
    1. Check Account/Store Status
    2. View Inventory
    3. Add Item to Inventory
@@ -45,16 +45,17 @@ NIM : 1313624039
    4. Top user (most bank tx user)
 
 # Collaborators (The person you learned from)
-1. ..........
+1. Rafi Ruzain Raba
+2. Rizky Wulan Purnamasari
 
 # Students (the person you taught to complete the assignments)
-1. ...........
+1. none
 
 # AI Assistance
-AI Tools: .............
+AI Tools: Copilot
 
-Paid AI Plugin (state none, if not subscribed): .............
+Paid AI Plugin (state none, if not subscribed): none
 
-Total Prompts used (int estimate): .............
+Total Prompts used (int estimate): 35
 
-Dominant prompt used for (seek solution / implement ideas) : ..............
+Dominant prompt used for (seek solution / implement ideas) : seek solution
